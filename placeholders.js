@@ -1,2 +1,2 @@
-let greet = "Hello", who = "World";
+var greet = "Hello", who = "World";
 console.log("%s, %s!", greet, who);
