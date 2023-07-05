@@ -1,2 +1,6 @@
  var a = null;
- a === null;
+ a === null; 
+ // To properly check if a value is null, compare it with the strict equality operator
+ let foo;
+ console.log('is undefined?', foo === undefined);
+ 
